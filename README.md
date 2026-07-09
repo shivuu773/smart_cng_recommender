@@ -114,14 +114,6 @@ We welcome contributions! Please follow these steps:
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 👥 Team
-
-- **Aryan Sharma** - Developer  
-- **Abhishek Gaur** - Developer 
-- **Anand Mishra** - UI/UX Designer
-- **Aparna Pandey** - Developer
-- **Vishal Dubey** - Research Analys
-
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
@@ -129,9 +121,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📞 Contact
 
 - Website: [quickfill.com](https://quickfill.com)
-- Email: aryansharma35x@gmail.com
-- Location: Sharda University, Greater Noida
-- Phone: +91 9412678204
+- Email: sy217083@gmail.com
+- Location: Galgotias University, Greater Noida
+- Phone: +91 6306037969
 
 ---
 
